@@ -28,5 +28,5 @@ longitude = information['longitude']
 final = o3.get_coordinate_air(latitude, longitude)
 #save final to json
 #convert final from dataframe to json
-print(final)
+
 #save final to json
